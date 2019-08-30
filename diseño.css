@@ -1,0 +1,90 @@
+body {
+    background-repeat: no-repeat, repeat;
+    background-color:rgb(73, 7, 7);
+    display: block;
+   
+}
+img{
+    display:block;
+    margin:auto;
+    padding: 1%;
+    width: 65%;
+    
+    }
+h1{
+    color: rgb(224, 179, 110);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.color-icon{
+    color:red;
+    font-size: 40px;
+}
+.contenedor{
+    background-image: url('./imagen3.jpg');
+    width: 800px;
+    height: 550px;
+    background-repeat: no-repeat;
+    margin: 0 auto;  
+}
+
+button.dere {
+    background: none;
+    border:none;
+    position: relative;
+    left:300px;
+    bottom:-130px;
+}
+button.dirizquierda{
+    background: none;
+    border:none;
+    position: relative;
+    left:30px;
+    bottom:-130px;
+}
+button.encender{
+    position: relative;
+    left:300px;
+    bottom:-130px;
+    background-color: crimson;
+
+    
+}
+.cambios{
+    position: relative;
+    left:200px;
+    bottom:-200px;
+    background-color: crimson;
+    border-radius: 50%;
+}
+
+.tabla{
+    position: relative; 
+    width: 200px;
+    height: 400px;
+    background-color: aliceblue;
+    left:-200px;
+    bottom:80px;
+}
+
+.closh{
+    position: relative;
+    left:-120px;
+    bottom:-200px;
+    background-color: crimson;
+    border-radius: 50%;
+}
+.FM{
+    position: relative;
+    left:-130px;
+    bottom:-250px;
+    background-color: crimson;
+    border-radius: 50%;
+}
+.AC{
+    position: relative;
+    left:-250px;
+    bottom:-200px;
+    background-color: crimson;
+    border-radius: 50%;
+}
